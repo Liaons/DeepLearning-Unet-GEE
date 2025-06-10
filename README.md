@@ -72,7 +72,8 @@ This repo provide code and datasets for training in image segmentation with Deep
   
   <img src="https://i.imgur.com/eMF9FOG.gif" alt="MNIST Dream prediction"/>
   
-  
+**5) Sentinel-1 & Sentinel-2 combination in Python**
+<BR>Jupyter notebook: *sentinel1_sentinel2_unet_example.ipynb*
 <BR>
 
 # *Dataset:*
